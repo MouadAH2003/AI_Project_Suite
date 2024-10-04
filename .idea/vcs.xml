@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/base/flask_draft" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/Image-Classification-CIFAR-10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/classification/Image-Classification-CIFAR-10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/classification/License_Number_plate/yolov5/yolov5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/classification/gender-recognition-by-voice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/gender-recognition-by-voice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/recommendation_syss/movie-recommender-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/time_series_forecasting/Air-Pollution-Forecasting" vcs="Git" />
+  </component>
+</project>
